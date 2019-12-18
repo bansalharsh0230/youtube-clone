@@ -1,0 +1,15 @@
+h1, p {
+  font-family: Lato;
+}
+button
+{
+  
+  padding: 6px 10px;
+  margin-top: 8px;
+  margin-right: 16px;
+  background: #ddd;
+  font-size: 17px;
+  border: none;
+  cursor: pointer;
+   background: #ccc;
+}
